@@ -25,6 +25,11 @@ This project involves developing a logistic regression machine learning model to
    - Generated histograms and bar charts for visualizing variable distributions.
    - Analyzed relationships between features and the target variable (Affinity Card approval).
    - Transform the data for model (in model.py file we transform the data first and after we developed model)
+        - A. CUST GENDER into binary F - 0, M -1
+        - COUNTRY NAME into ordinal number based on their occurrence in the data set in ascending order
+        - CUST INCOME LEV EL into 3 ordinal levels 1 – low income. 2 -middle income, and 3 – high income
+        - EDUCATION into ordinal numbers based on USA education level in ascending order
+        - HOUSEHOLD SIZE into ordinal numbers based on number of people.
 
 3. **Model Development:**
    - Built a logistic regression model to predict affinity card approvals.
