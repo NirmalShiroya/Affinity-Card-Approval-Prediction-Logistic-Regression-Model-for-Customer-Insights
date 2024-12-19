@@ -21,9 +21,10 @@ This project involves developing a logistic regression machine learning model to
    - Data was loaded, and metadata was generated for better understanding.
    - Key preprocessing steps included removing irrelevant columns, handling missing values, and encoding categorical variables.
 
-2. **Data Exploration:**
+2. **Data Exploration & Transformation:**
    - Generated histograms and bar charts for visualizing variable distributions.
    - Analyzed relationships between features and the target variable (Affinity Card approval).
+   - Transform the data for model (in model.py file we transform the data first and after we developed model)
 
 3. **Model Development:**
    - Built a logistic regression model to predict affinity card approvals.
