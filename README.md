@@ -96,11 +96,6 @@ Contributions are welcome! Please open an issue or submit a pull request to sugg
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Contact
 For any queries or suggestions, please contact Nirmalkumar Shiroya at nirmal31314@gmail.com.
 
