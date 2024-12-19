@@ -53,8 +53,8 @@ This project involves developing a logistic regression machine learning model to
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   ```
+git clone https://github.com/NirmalShiroya/Affinity-Card-Approval-Prediction-Logistic-Regression-Model-for-Customer-Insights.git
+```
 
 2. **Run the Code:**
    - Open the Jupyter Notebook or Google Colab file.
@@ -101,6 +101,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-For any queries or suggestions, please contact [Your Name] at [Your Email].
+For any queries or suggestions, please contact Nirmalkumar Shiroya at nirmal31314@gmail.com.
 
 
